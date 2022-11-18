@@ -60,6 +60,14 @@ a{
     margin: 5px;
 }
 
+.mrgt-75px{
+    margin-top: 75px;
+}
+
+.mrgb-75px{
+    margin-bottom: 75px;
+}
+
 ul{
     list-style-type: none;
 }
